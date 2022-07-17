@@ -22,7 +22,7 @@
   "homepage": "https://github.com/toyobayashi/acb.js#readme",
   "dependencies": {
     "columnify": "^1.5.4",
-    "commander": "^8.0.0"
+    "commander": "^9.4.0"
   },
   "devDependencies": {
     "mocha": "^9.0.2"
